@@ -29,4 +29,5 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
+c::set('autogit.branch', 'content_changes');
 c::set('autogit.webhook.secret', 'october');
